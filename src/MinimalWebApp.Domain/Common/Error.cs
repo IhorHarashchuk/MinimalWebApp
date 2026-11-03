@@ -1,3 +1,4 @@
+
 namespace MinimalWebApp.Domain.Common;
 
 /// <summary>
